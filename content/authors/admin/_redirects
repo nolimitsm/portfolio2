@@ -1,0 +1,7 @@
+[[redirects]]
+  from = "/splash"
+  to = "https://linktr.ee/atlantawebdesign"
+  status = 301
+  force = false
+  query = {path = ":path"}
+  conditions = {Language = ["en"], Country = ["US"], Role = ["admin"]}
