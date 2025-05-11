@@ -7,7 +7,7 @@ first_name: Abihail
 last_name: Petit-frere
 
 # Status emoji
-status:
+status: Online
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -17,13 +17,13 @@ superuser: true
 role: Web Developer | Writer
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abihail is a Christian writer and web developer, Hire me for your next project!
+bio: Abihail is a passionate writer and web developer, Hire me for your next project!
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:abihail.petit@gmail.com'
+    url: 'mailto:apetitfr@student.highlands.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/
@@ -46,6 +46,4 @@ highlight_name: true
 website: "https://abihail.designs"
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abihail is a Christian Writer and and freelance web developer. Abihail has over 15 years of experience with writing content and developing web sites for clients and for personal use. Passionate and punctual are his main virtues as a professional. Abihail can create beautiful products from just one colloboration meeting. He prides himself on honest and authentic communication which will lead to satisfaction with all parties. He is currently pursing his Bachelors Degree in CS as an adult learner at Georgia Highlands College.
