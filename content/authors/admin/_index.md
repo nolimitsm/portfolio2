@@ -46,4 +46,4 @@ highlight_name: true
 website: "https://abihail.designs"
 ---
 
-Abihail is a Christian Writer and and freelance web developer. Abihail has over 15 years of experience with writing content and developing web sites for clients and for personal use. Passionate and punctual are his main virtues as a professional. Abihail can create beautiful products from just one colloboration meeting. He prides himself on honest and authentic communication which will lead to satisfaction with all parties. He is currently pursing his Bachelors Degree in CS as an adult learner at Georgia Highlands College.
+Abihail is a Christian Writer and and freelance web developer. Abihail has over 15 years of experience with writing content and developing web sites for clients and for personal use. Passionate and punctual are his main virtues as a professional. Abihail can create beautiful products from just one colloboration meeting. He prides himself on honest and authentic communication, which will lead to satisfaction with all parties. He is currently pursing his Bachelors Degree in CS as an adult learner at Georgia Highlands College.
