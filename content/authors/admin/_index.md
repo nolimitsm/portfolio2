@@ -7,7 +7,7 @@ first_name: Abihail
 last_name: Petit-frere
 
 # Status emoji
-status: Online
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
