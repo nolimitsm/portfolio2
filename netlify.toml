@@ -27,3 +27,9 @@
   to = "https://linktr.ee/atlantawebdesign"
   status = 301
   force = false
+
+  [[redirects]]
+  from = "/convert"
+  to = "https://calendly.com/atlanta-abihail"
+  status = 301
+  force = false
