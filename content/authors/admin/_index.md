@@ -14,10 +14,10 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Web Developer | Writer
+role: Cybersecurity Researcher | Writer
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abihail is a passionate writer and web developer, Hire me for your next project!
+bio: Abihail is a passionate writer and programmer, Hire me for your next project!
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,4 +46,4 @@ highlight_name: true
 website: "https://abihail.designs"
 ---
 
-Abihail is a Christian Writer and and freelance web developer. Abihail has over 15 years of experience with writing content and developing web sites for clients and for personal use. Passionate and punctual are his main virtues as a professional. Abihail can create beautiful products from just one colloboration meeting. He prides himself on honest and authentic communication, which will lead to satisfaction with all parties. He is currently pursing his Bachelors Degree in CS as an adult learner at Georgia Highlands College.
+Abihail is a Christian Writer & freelance programmer who is drawn towards helping people become more aware of their privacy rights online. Through this belief that cybersecurity begins with the  digital privacy of the people, Abihail created a online platform named "Amped Privacy", which strives to inform people on how to use technology more securely. With over 15 years of experience with pentesting and computer research, he believes technology is meant to be used by people, and not the other way around. With superb coding skills, Abihail can also create quality products and designs from just one project meeting. He prides himself on being an honest and authentic communicator, which will lead to productive collaboration with all parties. He is currently pursing his Bachelors Degree in CS as an adult learner at Georgia Highlands College.
