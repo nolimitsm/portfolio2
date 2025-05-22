@@ -1,0 +1,43 @@
+/* Navigation Styles */
+
+
+
+#site-header.header {
+  @apply bg-white dark:bg-zinc-800 py-3 shadow;
+}
+
+/* navbar items */
+
+.navbar-nav {
+  @apply text-center lg:text-right;
+}
+
+
+
+
+
+.nav-dropdown {
+  @apply mr-0;
+
+  & > svg {
+    @apply pointer-events-none;
+  }
+
+  &.active {
+    .nav-dropdown-list {
+      @apply block;
+    }
+  }
+}
+
+.nav-dropdown-list {
+  @apply bg-white dark:bg-slate-900 z-10 min-w-[180px] rounded py-4 shadow hidden lg:invisible lg:absolute lg:block lg:opacity-0;
+}
+
+.nav-dropdown-item {
+  @apply px-4  [&:not(:last-child)]:mb-2 dark:hover:bg-primary-500;
+}
+
+.nav-dropdown-link {
+  @apply hover:text-primary-700 dark:text-white  dark:hover:text-white block py-1 font-semibold transition;
+}
