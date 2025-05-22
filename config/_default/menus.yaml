@@ -11,6 +11,3 @@ main:
   - name: Portfolio
     url: portfolio/
     weight: 30
-- name: Amped
-    url: portfolio/
-    weight: 40
