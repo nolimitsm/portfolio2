@@ -11,6 +11,6 @@ main:
   - name: Portfolio
     url: portfolio/
     weight: 30
-- name: <style="color:red">Amped</style>
+- name: Amped
     url: https://ampedprivacy.com/
-    weight: 40
+    weight: 45
