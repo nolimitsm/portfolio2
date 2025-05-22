@@ -17,7 +17,7 @@ superuser: true
 role: Cybersecurity Researcher | Writer
 
 # Short bio (displayed in user profile at end of posts)
-bio: Abihail is a passionate writer and programmer, Hire me for your next project!
+bio: Abihail is a passionate writer and programmer, Hire me for your next project !
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,4 +46,4 @@ highlight_name: true
 website: "https://abihail.designs"
 ---
 
-Abihail is a Christian Writer & freelance programmer who is drawn towards helping people become more aware of their privacy rights online. Through this belief that cybersecurity begins with the digital privacy of the people, Abihail created a online platform named "Amped Privacy", which strives to inform people on how to use technology more securely. With over 15 years of experience with pentesting and computer research, he believes technology is meant to be used by people, and not the other way around. With superb coding skills, Abihail can create quality projects and designs from just one business session. He prides himself on being an honest and authentic communicator, which will lead to successful collaboration with all parties. He is currently pursing his Bachelors Degree in CS as an adult learner at Georgia Highlands College.
+Abihail is a Christian Writer & freelance programmer who is drawn towards helping people become more aware of their privacy rights online. Through this belief that cybersecurity begins with the security of people's digital privacy rights, Abihail created "Amped Privacy", an online publication platform which strives to inform others on how to use technology more securely. With over 15 years of experience with pen-testing and computer research, he believes technology is meant to be used by people, and not the other way around. With superb coding skills, Abihail can create quality projects and designs that exceed all expectations. He prides himself on being an honest and authentic communicator, which leads to successful collaboration with all parties. He's currently pursing his Bachelors Degree in CS as an adult learner at Georgia Highlands College.
