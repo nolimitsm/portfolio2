@@ -12,6 +12,6 @@ main:
     url: portfolio/
     weight: 30
   - name: Amped
-    url: portfolio/
+    url: https://ampedprivacy.com/
     weight: 40
 
