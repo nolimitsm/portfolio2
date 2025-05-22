@@ -31,8 +31,6 @@ header:
   navbar:
     enable: true
     blox: "my-navbar"
-    show_search: true
-    show_theme_chooser: true
 
 # Site footer
 footer:
