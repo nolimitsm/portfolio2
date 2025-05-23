@@ -9,7 +9,7 @@
 /* navbar items */
 
 .navbar-nav {
-  @apply text-center lg:text-right;
+  @apply text-center lg:text-left;
 }
 
 
